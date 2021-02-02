@@ -7,3 +7,4 @@ int main(void)
 }
 int x = 5;
 int y = 4;
+printf("Sum of x and y is %i\n", x + y);
